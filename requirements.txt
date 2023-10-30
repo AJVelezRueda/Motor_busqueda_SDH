@@ -17,3 +17,5 @@ sentencepiece==0.1.99
 datasets[audio]
 nemo_toolkit[all]
 ipywebrtc
+ffmpeg-python==0.2.0
+word2number==1.1
