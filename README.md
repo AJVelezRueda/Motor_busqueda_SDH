@@ -15,9 +15,13 @@ $ pip install -r requirements.txt
 ```
 
 
-### Running the project in jupyter 
+### Running the project in jupyter
 
 ```bash
 jupyter nbextension enable --py widgetsnbextension
 jupyter notebook
+
+# or with lab
+jupyter labextension enable  widgetsnbextension
+jupyter lab
 ```
